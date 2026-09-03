@@ -1,0 +1,17 @@
+area_id,area_name,zone,population_exposed,tower_count,single_point_dependency_pct,power_backup_hours,generator_health_pct,fiber_route_count,mobile_signal_redundancy_pct,disaster_exposure_pct,communication_hub_distance_km
+AR-001,Central City Core,North,14696,7,49.7,4.9,58.1,4,43.2,80.1,1.8
+AR-002,Riverside District,East,43693,8,67.0,11.1,74.2,2,22.5,47.0,10.6
+AR-003,Hillview Corridor,West,58640,8,60.9,3.9,90.7,1,39.2,46.5,5.1
+AR-004,Market Quarter,Central,26132,6,23.4,11.1,42.6,1,43.4,20.2,6.0
+AR-005,Industrial Belt,South,89511,1,12.5,11.7,50.4,1,33.5,80.0,5.7
+AR-006,Lakeside Ward,North,98854,7,80.1,4.5,75.9,3,18.6,54.9,2.6
+AR-007,University Zone,West,82023,7,17.7,7.3,42.3,2,82.9,77.7,6.1
+AR-008,Old Town,Central,60852,7,45.3,5.1,46.5,4,77.4,31.3,8.1
+AR-009,Airport Link,East,107696,7,28.7,11.0,45.0,3,66.1,52.4,11.5
+AR-010,Greenfield Edge,South,12134,5,64.5,11.4,79.0,4,72.6,42.9,11.5
+AR-011,Valley Community,West,38965,7,70.1,2.4,52.5,4,82.5,61.6,8.4
+AR-012,Harbor Zone,East,43458,1,43.6,7.4,70.3,3,81.2,83.1,11.3
+AR-013,Civic Quarter,Central,104837,7,13.6,5.4,56.1,4,89.4,83.9,5.6
+AR-014,Meadow District,North,21552,2,38.1,4.4,60.9,1,48.7,94.5,5.7
+AR-015,Tech Park,South,37370,1,36.1,7.6,56.9,1,91.0,25.8,9.0
+AR-016,Forest Fringe,West,18845,4,70.0,10.1,41.9,3,14.2,26.5,8.4

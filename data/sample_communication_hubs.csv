@@ -1,0 +1,17 @@
+area_id,hub_id,distance_km,backup_capacity_users,status
+AR-001,HUB-001,2.4,47,Active
+AR-002,HUB-002,5.3,101,Needs upgrade
+AR-003,HUB-003,1.8,170,Needs upgrade
+AR-004,HUB-004,1.4,20,Active
+AR-005,HUB-005,4.2,214,Needs upgrade
+AR-006,HUB-006,9.2,297,Active
+AR-007,HUB-007,4.1,218,Active
+AR-008,HUB-008,3.0,291,Active
+AR-009,HUB-009,8.3,195,Needs upgrade
+AR-010,HUB-010,1.4,105,Active
+AR-011,HUB-011,8.3,238,Active
+AR-012,HUB-012,9.3,136,Planned
+AR-013,HUB-013,3.4,87,Planned
+AR-014,HUB-014,0.6,40,Planned
+AR-015,HUB-015,4.1,295,Planned
+AR-016,HUB-016,2.7,292,Active

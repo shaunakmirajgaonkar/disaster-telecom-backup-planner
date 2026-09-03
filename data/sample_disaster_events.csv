@@ -1,0 +1,33 @@
+area_id,event_id,event_date,hazard_type,duration_minutes,severity
+AR-001,E-001-1,2026-08-09,Storm,212,Medium
+AR-001,E-001-2,2026-08-01,Flood,141,Medium
+AR-002,E-002-1,2026-08-26,Flood,147,Critical
+AR-002,E-002-2,2026-08-02,Flood,191,High
+AR-003,E-003-1,2026-08-10,Flood,137,Low
+AR-003,E-003-2,2026-08-07,Landslide,178,Critical
+AR-004,E-004-1,2026-08-10,Storm,69,Critical
+AR-004,E-004-2,2026-08-15,Storm,131,High
+AR-005,E-005-1,2026-08-13,Heat event,53,Critical
+AR-005,E-005-2,2026-08-12,Landslide,170,High
+AR-006,E-006-1,2026-08-25,Flood,128,Critical
+AR-006,E-006-2,2026-08-13,Landslide,135,Low
+AR-007,E-007-1,2026-08-21,Landslide,156,High
+AR-007,E-007-2,2026-08-09,Heat event,29,Low
+AR-008,E-008-1,2026-08-22,Flood,190,Critical
+AR-008,E-008-2,2026-08-08,Heat event,104,Low
+AR-009,E-009-1,2026-08-10,Heat event,74,Low
+AR-009,E-009-2,2026-08-08,Flood,69,Critical
+AR-010,E-010-1,2026-08-02,Landslide,201,Low
+AR-010,E-010-2,2026-08-09,Landslide,63,Medium
+AR-011,E-011-1,2026-08-11,Storm,172,Medium
+AR-011,E-011-2,2026-08-07,Landslide,67,Medium
+AR-012,E-012-1,2026-08-17,Flood,122,Low
+AR-012,E-012-2,2026-08-06,Flood,31,Critical
+AR-013,E-013-1,2026-08-26,Heat event,91,Low
+AR-013,E-013-2,2026-08-28,Storm,168,Medium
+AR-014,E-014-1,2026-08-23,Flood,29,Medium
+AR-014,E-014-2,2026-08-19,Flood,189,High
+AR-015,E-015-1,2026-08-02,Heat event,44,High
+AR-015,E-015-2,2026-08-09,Flood,102,High
+AR-016,E-016-1,2026-08-28,Landslide,65,Low
+AR-016,E-016-2,2026-08-23,Storm,194,Critical
